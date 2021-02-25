@@ -1,2 +1,2 @@
 #!/bin/sh
-npm update && npm audit
+npm update && npm audit fix
