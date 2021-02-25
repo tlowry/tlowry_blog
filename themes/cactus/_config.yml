@@ -16,6 +16,7 @@ direction: ltr
 nav:
   projects: https://github.com/tlowry
   articles: /archives/
+  Quotes: /quotes/
 
 
 # Links to your social media accounts.
@@ -116,7 +117,7 @@ page_width: 48
 ##############################################################################
 
 # Enable or disable the RSS feed.
-rss: true 
+rss: atom.xml 
 
 # Turn your web pages into graph objects (see http://ogp.me).
 open_graph:
